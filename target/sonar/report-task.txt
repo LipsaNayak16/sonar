@@ -1,0 +1,7 @@
+organization=lipsanayak16
+projectKey=lipsanayak16
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.20206
+dashboardUrl=https://sonarcloud.io/dashboard?id=lipsanayak16
+ceTaskId=AXmIlwYIyBzzrx7gFta_
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmIlwYIyBzzrx7gFta_

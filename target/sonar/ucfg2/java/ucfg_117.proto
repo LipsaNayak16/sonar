@@ -1,0 +1,82 @@
+
+zcom.infy.infyShop.user.service.WishlistServiceImpl#addWishlist(Lcom/infy/infyShop/user/dto/WishlistDTO;)Ljava/lang/String;t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java ("startingBlock*≤
+startingBlockt
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (3‹
+Ÿ
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (
+
+%8"
+__annotate*
+java.lang.Override*7
+5
+wishlistDTO&com.infy.infyShop.user.dto.WishlistDTO∆
+√
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java' (25
+wishlistDTO&com.infy.infyShop.user.dto.WishlistDTO"__annotation*
+
+%8*
+1*ù
+1t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java ($œÃ
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (",
+%0&com.infy.infyShop.user.entity.Wishlist"&com.infy.infyShop.user.entity.Wishlist·
+ﬁ
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java ($
+%1"0com.infy.infyShop.user.entity.Wishlist#<init>()V*.
+,
+%0&com.infy.infyShop.user.entity.Wishlist„
+‡
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (%2
+wishlist&com.infy.infyShop.user.entity.Wishlist"__id*.
+,
+%0&com.infy.infyShop.user.entity.Wishlist°û
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (.
+%2java.lang.Integer"Fcom.infy.infyShop.user.dto.WishlistDTO#getBuyerId()Ljava/lang/Integer;*7
+5
+wishlistDTO&com.infy.infyShop.user.dto.WishlistDTO2getBuyerId()¿Ω
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (/
+
+%3void"Gcom.infy.infyShop.user.entity.Wishlist#setBuyerId(Ljava/lang/Integer;)V*4
+2
+wishlist&com.infy.infyShop.user.entity.Wishlist*
+
+%2java.lang.Integer2setBuyerId(Ljava/lang/Integer;)üú
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (,
+%4java.lang.Integer"Ecom.infy.infyShop.user.dto.WishlistDTO#getProdId()Ljava/lang/Integer;*7
+5
+wishlistDTO&com.infy.infyShop.user.dto.WishlistDTO2getProdId()æª
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (-
+
+%5void"Fcom.infy.infyShop.user.entity.Wishlist#setProdId(Ljava/lang/Integer;)V*4
+2
+wishlist&com.infy.infyShop.user.entity.Wishlist*
+
+%4java.lang.Integer2setProdId(Ljava/lang/Integer;)ã
+à
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (:
+%64com.infy.infyShop.user.repository.WishlistRepository"__id*N*L4
+2com.infy.infyShop.user.service.WishlistServiceImpl"
+wishlistRepositoryîë
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (#,
+%7&com.infy.infyShop.user.entity.Wishlist"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*<
+:
+%64com.infy.infyShop.user.repository.WishlistRepository*4
+2
+wishlist&com.infy.infyShop.user.entity.Wishlist2save(Ljava/lang/Object;)"ñ
+t
+jC:/Users/sanka/sonar/Infyshop_UserMS/src/main/java/com/infy/infyShop/user/service/WishlistServiceImpl.java (&
+Wishlist added succesfully:5
+wishlistDTO&com.infy.infyShop.user.dto.WishlistDTOB64
+2com.infy.infyShop.user.service.WishlistServiceImpl
